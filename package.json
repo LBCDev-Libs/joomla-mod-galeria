@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LBC-Starter-Kits/Joomla-Module-Starter-Kit.git.git"
+    "url": "git+https://github.com/LBCDev-Libs/Joomla-Module-Starter-Kit.git.git"
   },
   "keywords": [],
   "author": "Luis Breña Calvo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LBC-Starter-Kits/Joomla-Module-Starter-Kit.git/issues"
+    "url": "https://github.com/LBCDev-Libs/Joomla-Module-Starter-Kit.git/issues"
   },
-  "homepage": "https://github.com/LBC-Starter-Kits/Joomla-Module-Starter-Kit.git#readme",
+  "homepage": "https://github.com/LBCDev-Libs/Joomla-Module-Starter-Kit.git#readme",
   "devDependencies": {
     "@babel/core": "^7.25.2",
     "@babel/polyfill": "^7.12.1",
